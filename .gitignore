@@ -3,6 +3,7 @@
 
 # ide generated
 *.idea
+*.iml
 
 # Log file
 *.log
